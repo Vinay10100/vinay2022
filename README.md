@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/VINAYUNIYAL/VINAYUNIYAL/master/name.svg" alt="VINAY UNIYAL" />
+</h1>
 ### Hi there 👋
 
 <!--
