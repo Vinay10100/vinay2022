@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Vinay</h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student&center=true&width=380&height=45"></a>
+</p>
 <img img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 I am a 2nd Year Undergrad pursuing Bachelors of Technology in Computer Science Engineering.
 <h3 align="left">Languages and Tools:</h3>
