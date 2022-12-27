@@ -18,6 +18,12 @@ I am a 3rd Year Undergrad pursuing Bachelors of Technology in Computer Science E
 <br/>
 <br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white)
 
+
+
+
+<p align="left">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white)
+</p>
 
